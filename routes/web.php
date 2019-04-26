@@ -11,16 +11,16 @@
 |
 */
 
-Route::get('/', 'PublicController@index');
+Route::get('/', 'PublicController@index')->name('index');
 
-Route::get('post/{id}', 'PublicController@singlePost');
+Route::get('post/{id}', 'PublicController@singlePost')->name('singlePost');
 
-Route::get('about', 'PublicController@about');
+Route::get('about', 'PublicController@about')->name('about');
 
-Route::get('contact', 'PublicController@contact');
+Route::get('contact', 'PublicController@contact')->name('contact');
 
-Route::post('contact', 'PublicController@contactPost');
+Route::post('contact', 'PublicController@contactPost')->name('contactPost');
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/dashboard', 'HomeController@index')->name('dashboard');
