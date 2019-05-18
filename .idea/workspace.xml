@@ -475,7 +475,7 @@
       <workItem from="1556450933179" duration="533000" />
       <workItem from="1556882285472" duration="246000" />
       <workItem from="1558187544310" duration="695000" />
-      <workItem from="1558189702526" duration="13751000" />
+      <workItem from="1558189702526" duration="14043000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel Setup">
       <created>1556282175937</created>
@@ -516,7 +516,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25863000" />
+    <option name="totallyTimeSpent" value="26155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -554,7 +554,8 @@
     <MESSAGE value="auth" />
     <MESSAGE value="editing urls" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="Admin panel author, users." />
+    <option name="LAST_COMMIT_MESSAGE" value="Admin panel author, users." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
