@@ -13,7 +13,7 @@
 
 Route::get('/', 'PublicController@index')->name('index');
 
-Route::get('post/{id}', 'PublicController@singlePost')->name('singlePost');
+Route::get('post/{post}', 'PublicController@singlePost')->name('singlePost');
 
 Route::get('about', 'PublicController@about')->name('about');
 

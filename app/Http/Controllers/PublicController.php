@@ -1,17 +1,20 @@
 <?php
-
 namespace App\Http\Controllers;
 
+use App\Post;
 use Illuminate\Http\Request;
 
 class PublicController extends Controller
 {
     public function index(){
-        return view('welcome');
+        $posts = Post::all();
+
+        return view('welcome', compact('posts'));
     }
 
-    public function singlePost($id){
-        return view('singlePost');
+    public function singlePost(Post $post){
+
+        return view('singlePost', compact('post'));
     }
 
     public function about(){

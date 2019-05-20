@@ -2,94 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a46238-a828-4513-946d-2016a64470d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthorController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckRole.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/alerts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/blank.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/chartjs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/imgs/avatar-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/imgs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/invoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/carbon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/js/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/layouts-fixed-header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/layouts-fixed-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/layouts-hidden-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/layouts-normal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/modals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/progress-bars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/settings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/tabs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/chart.js/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/chart.js/chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fa-brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fa-brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fa-regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fa-regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fa-solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fa-solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fontawesome-all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/popper.js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/simple-line-icons/css/simple-line-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/assets/widgets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/comments.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/posts.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/users.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/author/comments.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/author/dashboard.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/author/posts.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/admin/headerNavigation.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/admin/sidebarNavigation.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/auth.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/user/comments.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/user/dashboard.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2019_05_20_200532_create_posts_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2019_05_20_202334_create_comments_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/CommentSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/PostSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PublicController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PublicController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/includes/navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/navigation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/singlePost.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/singlePost.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,26 +56,30 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/web.php">
+        <entry file="file://$PROJECT_DIR$/database/seeds/CommentSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="286">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding>
-                <element signature="e#7#389#0#PHP" expanded="true" />
+                <element signature="e#7#38#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/console.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/app/Comment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/users">
+        <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/comments">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
               <filtering enabled="true">
@@ -162,51 +90,75 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="189">
+              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+              <folding>
+                <element signature="e#94#164#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/user/comments.blade.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/singlePost.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="247">
+              <caret line="34" column="82" selection-start-line="34" selection-start-column="82" selection-end-line="34" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/user/dashboard.blade.php">
+        <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/posts">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true">
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PublicController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <element signature="e#39#52#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1139">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/seeds/PostSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+              <folding>
+                <element signature="e#7#38#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -225,21 +177,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/public/assets/css/clean-blog.css" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/PublicController.php" />
         <option value="$PROJECT_DIR$/resources/views/contact.balde.php" />
         <option value="$PROJECT_DIR$/resources/views/contact.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/about.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/singlePost.blade.php" />
         <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
         <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
-        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
-        <option value="$PROJECT_DIR$/resources/views/includes/navigation.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/CheckRole.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/auth.blade.php" />
@@ -250,7 +197,6 @@
         <option value="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/includes/admin/sidebarNavigation.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/includes/admin/headerNavigation.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/UserContoller.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/AuthorController.php" />
@@ -263,9 +209,24 @@
         <option value="$PROJECT_DIR$/resources/views/author/posts.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/user/comments.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/user/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_05_20_200532_create_posts_table.php" />
+        <option value="$PROJECT_DIR$/database/seeds/PostSeeder.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_05_20_202334_create_comments_table.php" />
+        <option value="$PROJECT_DIR$/database/seeds/CommentSeeder.php" />
+        <option value="$PROJECT_DIR$/resources/views/includes/navigation.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
+        <option value="$PROJECT_DIR$/app/Post.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PublicController.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/resources/views/singlePost.blade.php" />
+        <option value="$PROJECT_DIR$/app/Comment.php" />
       </list>
     </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -390,9 +351,19 @@
             <path>
               <item name="personal-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Middleware" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="seeds" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="personal-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -415,7 +386,19 @@
               <item name="personal-blog" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -428,7 +411,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/admin/assets/imgs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -475,7 +458,9 @@
       <workItem from="1556450933179" duration="533000" />
       <workItem from="1556882285472" duration="246000" />
       <workItem from="1558187544310" duration="695000" />
-      <workItem from="1558189702526" duration="14043000" />
+      <workItem from="1558189702526" duration="14149000" />
+      <workItem from="1558264630827" duration="2561000" />
+      <workItem from="1558382024494" duration="5824000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel Setup">
       <created>1556282175937</created>
@@ -512,20 +497,33 @@
       <option name="project" value="LOCAL" />
       <updated>1558189664432</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Admin panel author, users.">
+      <created>1558203773486</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558203773487</updated>
+    </task>
+    <task id="LOCAL-00007" summary="workspace">
+      <created>1558203816628</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558203816628</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26155000" />
+    <option name="totallyTimeSpent" value="34646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20201342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18993288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Console" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -536,12 +534,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49798658" weight="0.22117962" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50201344" side_tool="true" weight="0.16353887" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49798658" visible="true" weight="0.22117962" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013423" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Database Console" order="12" sideWeight="0.4986577" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.21073826" />
+      <window_info active="true" anchor="right" id="Database" order="3" visible="true" weight="0.17986578" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,91 +554,10 @@
     <MESSAGE value="editing urls" />
     <MESSAGE value="fix" />
     <MESSAGE value="Admin panel author, users." />
-    <option name="LAST_COMMIT_MESSAGE" value="Admin panel author, users." />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PublicController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/assets/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#28#80#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/assets/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/assets/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="49" column="10" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="49" selection-end-column="10" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="93" column="71" selection-start-line="93" selection-start-column="71" selection-end-line="93" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/admin/assets/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -660,23 +578,12 @@
     <entry file="file://$PROJECT_DIR$/public/admin/assets/imgs/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/assets/imgs/logo1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/assets/imgs/logo2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/admin/assets/imgs/logo1.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/admin/assets/imgs/logo2.jpg" />
     <entry file="file://$PROJECT_DIR$/resources/views/includes/admin/sidebarNavigation.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="610">
           <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/includes/navigation.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="27" column="110" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="110" />
         </state>
       </provider>
     </entry>
@@ -735,9 +642,6 @@
           <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/singlePost.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -825,42 +729,154 @@
     <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2ded93fb-4169-4c8c-8dad-6032640aca4c/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://2ded93fb-4169-4c8c-8dad-6032640aca4c/collation/latin2_croatian_ci">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="das://2ded93fb-4169-4c8c-8dad-6032640aca4c/collation/latin2_croatian_ci" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e1dbc7dc-ce1d-4ac1-8d0e-257e5035d29c/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://e1dbc7dc-ce1d-4ac1-8d0e-257e5035d29c/collation/armscii8_bin">
+    <entry file="das://e1dbc7dc-ce1d-4ac1-8d0e-257e5035d29c/collation/armscii8_bin" />
+    <entry file="das://e1dbc7dc-ce1d-4ac1-8d0e-257e5035d29c/collation/armscii8_general_ci" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://e1dbc7dc-ce1d-4ac1-8d0e-257e5035d29c/collation/armscii8_general_ci">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/password_resets">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/migrations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_05_20_202334_create_comments_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_05_20_200532_create_posts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/includes/navigation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="280">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
             <element signature="e#7#389#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PublicController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="e#39#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/users">
+    <entry file="file://$PROJECT_DIR$/database/seeds/PostSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#7#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding>
+            <element signature="e#94#164#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/posts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1139">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/singlePost.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="34" column="82" selection-start-line="34" selection-start-column="82" selection-end-line="34" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/CommentSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#7#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://aa64b021-7bcd-43a5-a9e7-ba2c3d2ca65c/schema/personal-blog/table/comments">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true">
