@@ -53,4 +53,5 @@ Route::prefix('admin')->group(function (){
     Route::get('comments', 'AdminController@comments')->name('adminComments');
     Route::post('comment/{id}/delete', 'AdminController@deleteComment')->name('adminDeleteComment');
     Route::get('users', 'AdminController@users')->name('adminUsers');
+    Route::get('user/{id}/edit', 'AdminController@editUser')->name('adminEditUser');
 });

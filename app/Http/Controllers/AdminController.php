@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Comment;
 use App\Http\Requests\CreatePost;
 use App\Post;
+use App\User;
 use Illuminate\Http\Request;
 
 class AdminController extends Controller
@@ -59,6 +60,16 @@ class AdminController extends Controller
     }
 
     public function users(){
-        return view('admin.users');
+
+        $users = User::all();
+
+        return view('admin.users', compact('users'));
+    }
+
+    public function editUser($id){
+
+        $user = User::where('id', $id)->first();
+
+        return view('admin.editUser', compact('user'));
     }
 }
