@@ -53,12 +53,12 @@ Example vhost config
 ## Step 7
 Open the hosts file with the adminstration permission form:
 C:\Windows\System32\drivers\etc\hosts
-and add the following line:  In order to access the app by only typing "###personal-blog.test" in the browser
+and add the following line:  In order to access the app by only typing "### personal-blog.test" in the browser
 ```
 127.0.0.1 personal-blog.test
 ```
 
 ## Step 8
 After installation proccess finish and register the first user
-you need to access you phpmyadmin->personal-blog->user's table and change the ###admin and ###author field to 1 instead of 0
+you need to access you phpmyadmin->personal-blog->user's table and change the ### admin and ### author field to 1 instead of 0
 to give the first user the access for all the functionality in the application.
