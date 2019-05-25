@@ -17,7 +17,7 @@ Create an empty /personal-blog/ database for your application in phpmyadmin
 
 - Duplicate the .env.example file and rename it to .env
 
--to config the reset password functionality: Creatr an account in mailtrap.io and copy the SMTP username and SMTP password
+- to config the reset password functionality: Creatr an account in mailtrap.io and copy the SMTP username and SMTP password
 and place them in mailtrap in .env file
 
 - Fill out the informations to config the database connection
