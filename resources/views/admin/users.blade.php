@@ -36,8 +36,7 @@
                                 <td>{{ \Carbon\Carbon::parse($user->updated_at)->diffForHumans() }}</td>
                                 <td>
                                     <a href="{{ route('adminEditUser', $user->id) }}" class="btn btn-warning"><i class="icon icon-pencil"></i></a>
-                                    <form style="display: none" id="deleteUser-{{ $user->id }}" action="{{ route('adminDeleteUser', $user->id) }}" method="POST">@csrf</form>
-                                    <button type="button" class="btn btn-danger" onclick="document.getElementById('deleteUser-{{ $user->id }}').submit()">X</button>
+                                    <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#deleteUserModal-{{ $user->id }}">X</button>
                                 </td>
                             </tr>
                         @endforeach
@@ -47,4 +46,25 @@
             </div>
         </div>
     </div>
+
+    @foreach($users as $user)
+        <div class="modal fade" id="deleteUserModal-{{ $user->id }}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title" id="myModalLabel">You are about to delete the user {{ $user->name }}.</h4>
+                    </div>
+                    <div class="modal-body">
+                        Are you sure?
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">No, keep the user</button>
+                        <form id="deleteUser-{{ $user->id }}" method="POST" action="{{ route('adminDeleteUser', $user->id) }}">@csrf
+                            <button type="submit" class="btn btn-primary">Yes, delete this user</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    @endforeach
 @endsection

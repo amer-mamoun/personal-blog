@@ -26,6 +26,8 @@ Auth::routes();
 Route::get('/dashboard', 'HomeController@index')->name('dashboard');
 
 Route::prefix('user')->group(function(){
+
+   Route::post('new-comment', 'UserController@newComment')->name('newComment');
    Route::get('dashboard', 'UserController@dashboard')->name('userDashboard');
    Route::get('comments', 'UserController@comments')->name('userComments');
    Route::post('comment/{id}/delete', 'userController@deleteComment')->name('deleteComment');
@@ -34,6 +36,7 @@ Route::prefix('user')->group(function(){
 });
 
 Route::prefix('author')->group(function(){
+
     Route::get('dashboard', 'AuthorController@dashboard')->name('authorDashboard');
     Route::get('posts', 'AuthorController@posts')->name('authorPosts');
     Route::get('posts/new', 'AuthorController@newPost')->name('newPost');
@@ -45,6 +48,7 @@ Route::prefix('author')->group(function(){
 });
 
 Route::prefix('admin')->group(function (){
+
     Route::get('dashboard', 'AdminController@dashboard')->name('adminDashboard');
     Route::get('posts', 'AdminController@posts')->name('adminPosts');
     Route::get('post/{id}/edit', 'AdminController@postEdit')->name('adminPostEdit');

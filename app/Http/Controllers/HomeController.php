@@ -29,7 +29,7 @@ class HomeController extends Controller
         }elseif(Auth::user()->author == true){
             return redirect(route('authorDashboard'));
         }else{
-            return redirect(route('userDashboard='));
+            return redirect(route('userDashboard'));
         }
     }
 }

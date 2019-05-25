@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class PublicController extends Controller
 {
     public function index(){
-        $posts = Post::all();
+        $posts = Post::paginate(3);
 
         return view('welcome', compact('posts'));
     }

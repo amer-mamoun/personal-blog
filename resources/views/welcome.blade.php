@@ -34,17 +34,12 @@
                     |
                     <i class="fa fa-comment" aria-hidden="true"></i> {{ $post->comments->count() }}
                 </p>
-
             </div>
+
             <hr>
             @endforeach
-
-            <!-- Pager -->
-            <div class="clearfix">
-                <a class="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
-            </div>
+            {{ $posts->links() }}
         </div>
     </div>
 </div>
-
 @endsection
